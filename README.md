@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChrisZape (Chris) from Brazil.
-- 👀 I’m interested in Open5GS and 5G and Beyond 5G, more specifically, Network Slicing.
+- 👀 I’m interested in Open5GS, 5G and Beyond 5G, more specifically, Network Slicing.
 - 🌱 I’m currently learning about 5G, B5G and 6G.
 - 💞️ I’m looking to collaborate on Open5GS.
 - 📫 How to reach me ... here

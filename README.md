@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ChrisZape
+- 👋 Hi, I’m @ChrisZape from Brazil.
 - 👀 I’m interested in Open5GS and 5G and Beyond 5G.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning about 5G, B5G and 6G.
+- 💞️ I’m looking to collaborate on Open5GS.
+- 📫 How to reach me .... here
 - 😄 Pronouns: her/she
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: :-)
 
 <!---
 ChrisZape/ChrisZape is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
